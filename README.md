@@ -58,7 +58,9 @@ CNNs or convolutional neural nets are a type of deep learning algorithm that doe
 <a href="https://github.com/Manishankar9977/Manishankar9977/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Manishankar9977/Manishankar9977" />
 </a>
-
+<a href="https://github.com/jahnavidarbhamulla/jahnavidarbhamulla/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=jahnavidarbhamulla/jahnavidarbhamulla" />
+</a>
 
 
   
