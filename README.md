@@ -4,9 +4,7 @@
 
 
 
-  ![UI ](https://img.shields.io/badge/Colab%20Interface-Link-orange?style=flat-square&logo=appveyor)
-  
-## Abstract
+  [![UI ](https://img.shields.io/badge/Colab%20Interface-Link-orange?style=flat-square&logo=appveyor)](https://colab.research.google.com/drive/1MIc0iEUjqN0FRKv1DSeqLECkfMZeOF_S?usp=sharing)
  
 ## ADD
 - [ ] 
@@ -20,17 +18,7 @@
 - [ ]
 - [ ]
 
-## Dataset
-**ESC-50** Dataset for Environmental Sound Classification is a tagged collection of 2000 recordings of environmental sound that is appropriate for benchmarking environmental sound categorization techniques.
-
-It contains 50 semantic classes with 40 examples each and 5 major categories:
-- Animals
-- Natural soundscapes & water sounds
-- Human, non-speech sounds
-- Interior/domestic sounds
-- Exterior/urban noises
-
-This dataset can be downloaded as a .zip file: [ESC-50 dataset](https://github.com/karoldvl/ESC-50/archive/master.zip)
+## ADD
 
 
 ## ADD
@@ -38,15 +26,7 @@ This dataset can be downloaded as a .zip file: [ESC-50 dataset](https://github.c
 
 
 ## Contributors
-<a href="https://github.com/gautam-j/gautam-j/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=gautam-j/gautam-j" />
-</a>
-<a href="https://github.com/Manishankar9977/Manishankar9977/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Manishankar9977/Manishankar9977" />
-</a>
-<a href="https://github.com/JahnaviDarbhamulla/JahnaviDarbhamulla/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=JahnaviDarbhamulla/JahnaviDarbhamulla" />
-</a>
+
 
   
 ## License
