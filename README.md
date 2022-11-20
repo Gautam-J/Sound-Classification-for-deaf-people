@@ -6,10 +6,6 @@
 
   [![UI ](https://img.shields.io/badge/Colab%20Interface-Link-orange?style=flat-square&logo=appveyor)](https://colab.research.google.com/drive/1MIc0iEUjqN0FRKv1DSeqLECkfMZeOF_S?usp=sharing)
  
-## Abstract
-
-
-
 ## Dataset
 **ESC-50** Dataset for Environmental Sound Classification is a tagged collection of 2000 recordings of environmental sound that is appropriate for benchmarking environmental sound categorization techniques.
 
@@ -42,11 +38,19 @@ Few MFCCs extracted from ESC-50 dataset:
 <p>
 CNNs or convolutional neural nets are a type of deep learning algorithm that does really well at learning images. To use them for Audio classification we extract features which look like images and shape them in a way in order to feed them into a CNN. We use the <a href="https://librosa.org/doc/latest/index.html">librosa</a> package to do the same. 
 </p>
+<a> <img src = "https://miro.medium.com/max/828/1*rFhL3CYygk0gGlHOmlL_Jg.png" height=300> </a>
+
 <h3>Output</h3>
 <a> <img src = "https://user-images.githubusercontent.com/91772980/202911090-57ef2c4a-591c-4206-8f80-c7a3b1da618a.png" height=400> </a>
 
-### RNN
-<a> <img src="https://user-images.githubusercontent.com/91772980/202911103-84ab80c7-98f0-46da-882f-743c19ab9141.png" height=400> </a>
+<h2> Recurrent Neural Networks </h2>
+<p>
+Recurrent Neural nets are a type of deep learning algorithm that can remember sequences. Audio data tends to follow a pattern which can be exploited using RNNs to classify them.
+In contrast to the CNN model's results we decide to use a stateful LSTM thats allows us to simplify the overall network structure. All we need here is the LSTM layer followed by a Dense layer.
+</p>
+<a> <img src="https://miro.medium.com/max/1100/1*LZUF32AYHYXIL1WBuyAneg.webp" height=300></a>
+<h3>Output</h3>
+<a> <img src="https://user-images.githubusercontent.com/91772980/202911103-84ab80c7-98f0-46da-882f-743c19ab9141.png" height=300> </a>
 
 
 
