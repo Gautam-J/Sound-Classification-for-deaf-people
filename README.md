@@ -20,7 +20,17 @@
 - [ ]
 - [ ]
 
-## ADD
+## Dataset
+**ESC-50** Dataset for Environmental Sound Classification is a tagged collection of 2000 recordings of environmental sound that is appropriate for benchmarking environmental sound categorization techniques.
+
+It contains 50 semantic classes with 40 examples each and 5 major categories:
+- Animals
+- Natural soundscapes & water sounds
+- Human, non-speech sounds
+- Interior/domestic sounds
+- Exterior/urban noises
+
+This dataset can be downloaded as a .zip file: [ESC-50 dataset](https://github.com/karoldvl/ESC-50/archive/master.zip)
 
 
 ## ADD
