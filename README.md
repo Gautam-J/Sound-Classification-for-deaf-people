@@ -59,6 +59,9 @@ In contrast to the CNN model's results we decide to use a stateful LSTM thats al
 <a href="https://github.com/gautam-j/gautam-j/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=gautam-j/gautam-j" />
 </a>
+<a href="https://github.com/brijes-h/brijes-h/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=brijes-h/brijes-h" />
+</a>
 <a href="https://github.com/Manishankar9977/Manishankar9977/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Manishankar9977/Manishankar9977" />
 </a>
