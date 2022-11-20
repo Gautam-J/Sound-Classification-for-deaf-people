@@ -4,7 +4,7 @@
 
 
 
-  ![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=flat-square&logo=appveyor)
+  ![UI ](https://img.shields.io/badge/Colab%20Interface-Link-orange?style=flat-square&logo=appveyor)
  
 ## ADD
 - [ ] 
